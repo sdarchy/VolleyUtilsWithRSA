@@ -2,5 +2,9 @@
     {
         "merged": "/Users/LCS/Documents/ASWorkSpace/NetWorkUtilsVolley/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher.png",
         "source": "/Users/LCS/Documents/ASWorkSpace/NetWorkUtilsVolley/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Apple/Documents/ASWorkSpace/NetWorkUtilsVolley/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/Apple/Documents/ASWorkSpace/NetWorkUtilsVolley/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/Apple/Documents/ASWorkSpace/NetWorkUtilsVolley/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/Users/Apple/Documents/ASWorkSpace/NetWorkUtilsVolley/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/LCS/Documents/ASWorkSpace/NetWorkUtilsVolley/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
         "source": "/Users/LCS/Documents/ASWorkSpace/NetWorkUtilsVolley/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     }
